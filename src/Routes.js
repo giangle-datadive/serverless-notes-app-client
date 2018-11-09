@@ -3,6 +3,7 @@ import { Route, Switch } from "react-router-dom";
 import Home from "./containers/Home";
 import Notes from "./containers/Notes";
 import Login from "./containers/Login";
+import Settings from './containers/Setting'
 import Signup from "./containers/Signup";
 import NewNote from "./containers/NewNote";
 import NotFound from "./containers/NotFound";

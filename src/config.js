@@ -5,13 +5,13 @@ const dev = {
   },
   apiGateway: {
     REGION: 'ap-southeast-1',
-    URL: 'https://osqiglb7zc.execute-api.ap-southeast-1.amazonaws.com/dev'
+    URL: 'https://d5w6sovozk.execute-api.ap-southeast-1.amazonaws.com/dev'
   },
   cognito: {
     REGION: 'ap-southeast-1',
-    USER_POOL_ID: 'ap-southeast-1_VS0kKLBWr',
-    APP_CLIENT_ID: '1muq1sagvtksfjpe5g4rqgl1qm',
-    IDENTITY_POOL_ID: 'ap-southeast-1:0d39b33c-bd82-4d64-9002-7125a2864bb6'
+    USER_POOL_ID: 'ap-southeast-1_67Jbq5ixa',
+    APP_CLIENT_ID: '6ahuem7t3sahge9dd3shnltdko',
+    IDENTITY_POOL_ID: 'ap-southeast-1:6e83a70c-c4e8-4b62-a53d-aafc2007d381'
   },
   STRIPE_KEY: 'pk_test_JDWH2SEmS9gOjnNDokPAzir2',
 }
@@ -23,13 +23,13 @@ const prod = {
   },
   apiGateway: {
     REGION: 'ap-southeast-1',
-    URL: 'https://hbpe8zuthl.execute-api.ap-southeast-1.amazonaws.com/prod'
+    URL: 'https://gme4ey7tb5.execute-api.ap-southeast-1.amazonaws.com/prod'
   },
   cognito: {
     REGION: 'ap-southeast-1',
-    USER_POOL_ID: 'ap-southeast-1_LMlIEYNGX',
-    APP_CLIENT_ID: '7gikulogug17r7fsp51sgub6jq',
-    IDENTITY_POOL_ID: 'ap-southeast-1:a8b6f1dd-3257-4316-968e-0f473c80e130'
+    USER_POOL_ID: 'ap-southeast-1_L15kyzBKL',
+    APP_CLIENT_ID: '3nc7pa8lrkf659okjdjph00k7o',
+    IDENTITY_POOL_ID: 'ap-southeast-1:de3ee411-4bf5-4450-bf39-d1ffd14fd2e0'
   },
   STRIPE_KEY: 'pk_test_JDWH2SEmS9gOjnNDokPAzir2',
 }
